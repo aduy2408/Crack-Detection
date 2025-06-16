@@ -46,3 +46,5 @@ The model's performance is evaluated using:
 - Dice coefficient
 - Intersection over Union (IoU)
 - Visual comparison of predictions against ground truth
+
+![alt text](image.png)
